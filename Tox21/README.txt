@@ -1,7 +1,7 @@
 ### file description
 
 tox21-multitask.py
-	main code for prediction model (FP2VEC and QSAR model)
+	main code for the prediction model (FP2VEC and QSAR model)
 tox21.csv
 	tox21 dataset
 tox21_index.npy
