@@ -2,6 +2,8 @@
 
 tox21-multitask.py
 	main code for the prediction model (FP2VEC and QSAR model)
+tox21-multitask_TF2.py	
+	compatible version for TF 2.0
 tox21.csv
 	tox21 dataset
 tox21_index.npy
