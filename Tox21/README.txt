@@ -8,8 +8,10 @@ tox21.csv
 	tox21 dataset
 tox21_index.npy
 	preprocessed file for running code. a set of indexes for input data
+tox21_indexing.py
+	generates "tox21_index.npy" file.
 tox21_inputgen.py
-	input generator for file 'tox21-multitask.py'.
+	input generator for file "tox21-multitask.py".
 
 instruction
 	first, download four files in the same directory. 
