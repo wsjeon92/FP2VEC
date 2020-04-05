@@ -15,5 +15,5 @@ tox21_inputgen.py
 
 instruction
 	first, download four files in the same directory. 
-	second, run the file 'tox21_inputgen.py' to prepare input data.
-	third, run the file 'tox21-multitask.py' to train the model and see the result. 
+	second, run the file "tox21_inputgen.py" to prepare input data.
+	third, run the file "tox21-multitask.py" to train the model and see the result. 
